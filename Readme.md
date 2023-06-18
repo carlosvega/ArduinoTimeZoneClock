@@ -13,7 +13,7 @@
 
 - [Seeeduino Nano Microcontroller](https://eu.robotshop.com//products/seeeduino-nano-microcontroller) 
 
-![Arduino Nano](https://cdn.shopify.com/s/files/1/0573/1486/9416/products/seeeduino-nano-microcontroller_320a04de-e1bf-4437-8def-509d6a2800e8_600x.jpg?v=1680015625)
+![Arduino Nano](https://cdn.shopify.com/s/files/1/0573/1486/9416/products/seeeduino-nano-microcontroller_1100x.jpg?v=1686247341)
 
 ### LCD Display
 
