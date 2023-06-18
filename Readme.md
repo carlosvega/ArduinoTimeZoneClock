@@ -25,7 +25,7 @@
 
 - [RTC DS3231 Module](https://eu.robotshop.com//products/rtc-ds3231-module-1)
 
-![RTC](https://cdn.shopify.com/s/files/1/0573/1486/9416/products/b6fdf47f_wpm352_e396b2f8-f20a-481f-abea-69a7255e0b8c_600x.jpg?v=1680029621)
+![RTC](https://cdn.shopify.com/s/files/1/0573/1486/9416/products/b6fdf47f_wpm352_b2a6723a-77cc-445c-b491-bfda71ac011a_1000x.jpg?v=1684185637)
 
 ### Other
 
